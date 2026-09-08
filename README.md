@@ -1,2 +1,26 @@
-Last updated: 2026-09-09 01:47:56 WIB
-Last updated: 2026-09-09 01:48:11 WIB
+# antono1.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **13 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-09 02:59:45 WIB*
